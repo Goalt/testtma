@@ -30,7 +30,7 @@ function showPopup() {
         }
     });
 
-    // Telegram.
+    navigator.vibrate(200);
     };
 
 // Function to toggle main TWA button
